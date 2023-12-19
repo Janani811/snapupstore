@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="bg-white border-t">
       <div className="mx-auto py-10">
         <p className="text-center text-xs text-black">
-          &copy; 2023 ClothStore, Inc. All rights reserved.
+          &copy; 2023 SnapupStore, Inc. All rights reserved.
         </p>
       </div>
     </div>
